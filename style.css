@@ -1,0 +1,12 @@
+body {
+	font-family: Helvetica;
+}
+#logo {
+	height: 90px;
+	width: 90px;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
